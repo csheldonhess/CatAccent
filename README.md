@@ -1,7 +1,7 @@
-CatAccent
+PC-to-Respect
 =======
 
-Add a cat accent to your web browsing experience!
+Fix people's rhetoric for them!
 
 ## To install in Firefox:
 * Install [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), and restart the browser
@@ -20,7 +20,7 @@ Refresh this page. Do the following phrases talk about respecting people?
 * political correctness
 * PC
 
-## If you find that I missed something...
+## If you find that I missed something (because I did)...
 Please fork the [github repo](https://github.com/csheldonhess/PC-to-respect), make your improvements, and send me a pull request!
 
 ## SO many thanks!

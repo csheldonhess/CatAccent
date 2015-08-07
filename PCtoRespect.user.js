@@ -1,17 +1,17 @@
 // ==UserScript==
-// @name        CatAccent
-// @description Add a cat accent to your web viewing experience!
-// @namespace   http://zemkat.org/
+// @name        PCtoRespect
+// @description Fix some rhetoric.
+// @namespace   http://sheldon-hess.org/coral
 // @include     *
 // @version     1.0
-// @icon	http://zemkat.org/toys/CatAccent/cat32.png
-// @updateURL   http://zemkat.org/toys/CatAccent/CatAccent.meta.js
-// @downloadURL   http://zemkat.org/toys/CatAccent/CatAccent.user.js
+// @icon        http://sheldon-hess.org/coral/files/PC-to-Respect/owl.jpg
+// @updateURL   http://sheldon-hess.org/coral/files/PC-to-Respect/PCtoRespect.meta.js
+// @downloadURL   http://sheldon-hess.org/coral/files/PC-to-Respect/PCtoRespect.user.js
 // ==/UserScript==
 
 /* THIS FUNCTION NEEDS MANY IMPROVEMENTS! :) */
 function cat_translate() { /* regexes for cat translations */
-    add_to_list(/\bPC\b/gi, "respectful of other people", true);
+    add_to_list(/\bPC\b/gi, "respectful of other people", false);
     add_to_list(/\bpolitically correct\b/gi, "respectful of other people", true);
     add_to_list(/\bpolitical correctness\b/gi, "treating other people with respect", true);
 }
