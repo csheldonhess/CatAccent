@@ -5,20 +5,24 @@ Add a cat accent to your web browsing experience!
 
 ## To install in Firefox:
 * Install [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), and restart the browser
-* Click to open [CatAccent.user.js](https://raw.githubusercontent.com/zemkat/CatAccent/master/CatAccent.user.js) and install when prompted.
+* Click to open [PCtoRespect.user.js](https://raw.githubusercontent.com/csheldonhess/PC-to-respect/master/PCtoRespect.user.js) and install when prompted.
 * Check the GreaseMonkey menu to make sure the user script is enabled.
 
 ## To install in Chrome:
-* Download [CatAccent.user.js](https://raw.githubusercontent.com/zemkat/CatAccent/master/CatAccent.user.js) and ignore any warnings about not being able to install extensions from this site.
+* Download [PCtoRespect.user.js](https://raw.githubusercontent.com/csheldonhess/PC-to-respect/master/PCtoRespect.user.js) and ignore any warnings about not being able to install extensions from this site.
 * Visit `chrome://extensions` (enter that into the location bar)
-* Drag the CatAccent.user.js file into the browser window, and drop it to install.
+* Drag the PCtoRespect.user.js file into the browser window, and drop it to install.
 
 ## Did it install correctly?
-Do these sound like cat words to you?
+Refresh this page. Do the following phrases talk about respecting people?
 
-* now
-* new
-* his
+* politically correct
+* political correctness
+* PC
 
-## That doesn't sound enough like a cat...
-I fully agree. Please fork the [github repo](https://github.com/zemkat/CatAccent), make your improvements, and send me a pull request!
+## If you find that I missed something...
+Please fork the [github repo](https://github.com/csheldonhess/PC-to-respect), make your improvements, and send me a pull request!
+
+## SO many thanks!
+
+Thanks to GitHub user [zemkat](https://github.com/zemkat/) for the code this plugin is based on! (Seriously, all I had to do was swap out some terms from her [CatAccent](https://github.com/zemkat/CatAccent) plugin.) 

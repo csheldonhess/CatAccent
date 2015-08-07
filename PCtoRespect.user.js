@@ -11,15 +11,9 @@
 
 /* THIS FUNCTION NEEDS MANY IMPROVEMENTS! :) */
 function cat_translate() { /* regexes for cat translations */
-    add_to_list(/\bnow\b/gi, "meow", true);
-    add_to_list(/\bnew\b/gi, "mew", true);
-    add_to_list(/\bperfect/gi, "purrfect", true);
-    add_to_list(/\bhis\b/gi, "hiss", true);
-    add_to_list(/\bbaby\b/gi, "kitten", true);
-    add_to_list(/\bbabies\b/gi, "kittens", true);
-    add_to_list(/\bangry\b/gi, "grumpy", true);
-    add_to_list(/\bcheeseburger\b/gi, "cheezburger", true);
-    add_to_list(/\bcat\b/gi, "boss", true);
+    add_to_list(/\bPC\b/gi, "respectful of other people", true);
+    add_to_list(/\bpolitically correct\b/gi, "respectful of other people", true);
+    add_to_list(/\bpolitical correctness\b/gi, "treating other people with respect", true);
 }
 
 var cat_match = []; /* regexes to match */
